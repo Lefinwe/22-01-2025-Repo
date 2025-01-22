@@ -1,15 +1,12 @@
 import java.util.Scanner;
 
 public class Calculadora {
-	
+	//Esto es un comentario rapido
 	public static double sumar(double a, double b){
 		return a + b;
 
 	}
-	public static double restar(double a, double b){
-		return a - b;
 
-	}
 	public static double multiplicacion(double a, double b){
 		return a * b;
 
